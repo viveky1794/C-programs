@@ -1,0 +1,6 @@
+1: stack implimentation in array with 3 cases.
+	* add(push)
+	* display
+	* delete(POP)
+
+2: stck implementation by Single link list with 3 cases as above.
